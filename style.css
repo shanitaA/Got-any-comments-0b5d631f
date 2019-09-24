@@ -1,0 +1,23 @@
+/*All input and label have a margin of 4*/
+input,
+label {
+	margin:.4rem 0;
+}
+
+input{
+	width:400;
+	border-radius:5%/100%;
+	background-color: white;
+}
+button{
+	width:400;
+	border-radius:5%/100%;
+	background-color:white;
+}
+
+
+textarea{
+	border: 0.2rem outset red;
+	border-radius:2px;
+
+}

@@ -15,9 +15,10 @@ button{
 	background-color:white;
 }
 
-
 textarea{
-	border: 0.2rem outset red;
-	border-radius:2px;
-
+	border:0.2rem outset red;
 }
+
+textarea:focus{
+	border:0.2rem outset green;
+	border-radius:1px;
